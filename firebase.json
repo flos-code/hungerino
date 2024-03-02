@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "hungerino",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "europe-west1"
+      }
+    }
+  ]
+}

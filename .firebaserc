@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "hungerino-46fa6": {
+      "hosting": {
+        "hungerino": [
+          "hungerino-46fa6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "hungerino-46fa6"
+  }
+}
