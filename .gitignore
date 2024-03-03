@@ -45,3 +45,8 @@ Thumbs.db
 .firebase
 *-debug.log
 .runtimeconfig.json
+
+# Personal infos
+
+src/app/imprint/imprint.component.html
+src/app/privacy-policy/privacy-policy.component.html
